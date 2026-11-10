@@ -59,4 +59,12 @@ spriteTypes = {
 		name = "GFX_portrait_BEL_leon_degrelle_small"
 		texturefile = "gfx/leaders/NTI4/GFX_portrait_BEL_leon_degrelle_small.dds"
 	}
+	spriteType = {
+		name = "GFX_POL_boleslaw_piasecki"
+		texturefile = "gfx/leaders/NTI4/GFX_POL_boleslaw_piasecki.dds"
+	}
+	spriteType = {
+		name = "GFX_POL_wincenty_witos"
+		texturefile = "gfx/leaders/NTI4/GFX_POL_wincenty_witos.dds"
+	}
 }
