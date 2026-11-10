@@ -32,6 +32,7 @@ Det här repot innehåller två mods till Hearts of Iron IV som byter ledarnas p
 | Storbritannien | ENG | Viktor.png |
 | Danmark | DEN | danmark.png |
 | Schweiz | SWI | schweiz.png |
+| Argentina | ARG | argentina.png (katten) |
 
 Bara de som kan bli **landets ledare** byts. Generaler, rådgivare och forskare byts inte. Gemensamma standardbilder (`Generic`) byts inte heller, eftersom andra länder också använder dem.
 
