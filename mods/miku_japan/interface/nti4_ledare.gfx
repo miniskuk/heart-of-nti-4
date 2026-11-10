@@ -1,0 +1,50 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_portrait_USA_carnot_wheeler"
+		texturefile = "gfx/leaders/NTI4/GFX_portrait_USA_carnot_wheeler.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_Syngman_Rhee"
+		texturefile = "gfx/leaders/NTI4/GFX_portrait_Syngman_Rhee.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_Yi_Kang"
+		texturefile = "gfx/leaders/NTI4/GFX_portrait_Yi_Kang.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_FRA_denis_guillaumat"
+		texturefile = "gfx/leaders/NTI4/GFX_portrait_FRA_denis_guillaumat.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_SOV_aleksandr_kerensky"
+		texturefile = "gfx/leaders/NTI4/GFX_portrait_SOV_aleksandr_kerensky.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_GRE_konstantinos_tsaldaris"
+		texturefile = "gfx/leaders/NTI4/GFX_portrait_GRE_konstantinos_tsaldaris.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_Dalir_Pesyan"
+		texturefile = "gfx/leaders/NTI4/GFX_portrait_Dalir_Pesyan.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_Sohrab_Tahmasebi"
+		texturefile = "gfx/leaders/NTI4/GFX_portrait_Sohrab_Tahmasebi.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_ENG_horatio_dundas"
+		texturefile = "gfx/leaders/NTI4/GFX_portrait_ENG_horatio_dundas.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_Aksel_Larsen"
+		texturefile = "gfx/leaders/NTI4/GFX_portrait_Aksel_Larsen.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_Frits_Clausen"
+		texturefile = "gfx/leaders/NTI4/GFX_portrait_Frits_Clausen.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_SWI_ernest_beuin"
+		texturefile = "gfx/leaders/NTI4/GFX_portrait_SWI_ernest_beuin.dds"
+	}
+}

@@ -27,13 +27,24 @@ trap 'rm -rf "$TMP"' EXIT
 magick "$IMG" -crop "$BIG" +repage "$TMP/big.png"
 magick "$IMG" -crop "$SMALL" +repage "$TMP/small.png"
 
-# Hitta ledarnas bildfiler. Hoppa över gemensamma standardbilder som delas med andra länder.
+# Hitta ledarnas bildfiler (alla versioner, även DLC). Delade standardbilder ersätts inte; ledaren får istället en egen bild via interface/nti4_ledare.gfx.
 (cd "$GAME" && python3 -I "$HERE/verktyg/leaders.py" "$TAG" "$@") \
-  | grep -viE 'generic|leaders/Europe/' > "$TMP/files.txt" || true
+  > "$TMP/files.txt"
 
 echo "Filer som byts:"; cat "$TMP/files.txt"
 
-while read -r f sz; do
+GFXFILE=$MOD/interface/nti4_ledare.gfx
+while read -r f sz extra; do
+  if [ "$f" = SPRITE ]; then
+    # Ledaren använder en delad standardbild: ge spriten en egen textur i modden
+    sprite=$sz; sz=$extra; f=gfx/leaders/NTI4/$sprite.dds
+    mkdir -p "$MOD/interface"
+    [ -s "$GFXFILE" ] || echo "spriteTypes = {" > "$GFXFILE"
+    if ! grep -q "\"$sprite\"" "$GFXFILE"; then
+      sed -i '$ d' "$GFXFILE" 2>/dev/null; grep -q '^spriteTypes' "$GFXFILE" || echo "spriteTypes = {" > "$GFXFILE"
+      printf '\tspriteType = {\n\t\tname = "%s"\n\t\ttexturefile = "%s"\n\t}\n}\n' "$sprite" "$f" >> "$GFXFILE"
+    fi
+  fi
   h=${sz#*x}
   if [ "$h" -gt 150 ]; then src=$TMP/big.png; else src=$TMP/small.png; fi
   mkdir -p "$MOD/$(dirname "$f")"
