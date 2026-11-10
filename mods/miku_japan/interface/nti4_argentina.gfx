@@ -1,0 +1,314 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_nti4_ARG_agustin_pedro_justo_large"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_agustin_pedro_justo_large.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_agustin_pedro_justo_small"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_agustin_pedro_justo_small.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_roberto_maria_ortiz_large"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_roberto_maria_ortiz_large.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_roberto_maria_ortiz_small"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_roberto_maria_ortiz_small.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_ramon_castillo_large"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_ramon_castillo_large.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_ramon_castillo_small"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_ramon_castillo_small.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_pedro_pablo_ramirez_large"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_pedro_pablo_ramirez_large.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_pedro_pablo_ramirez_small"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_pedro_pablo_ramirez_small.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_edelmiro_julian_farrell_large"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_edelmiro_julian_farrell_large.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_edelmiro_julian_farrell_small"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_edelmiro_julian_farrell_small.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_nimio_de_anquin_large"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_nimio_de_anquin_large.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_nimio_de_anquin_small"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_nimio_de_anquin_small.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_marcelo_t_de_alvear_large"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_marcelo_t_de_alvear_large.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_marcelo_t_de_alvear_small"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_marcelo_t_de_alvear_small.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_enrique_mosca_large"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_enrique_mosca_large.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_enrique_mosca_small"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_enrique_mosca_small.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_victorio_codovilla_large"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_victorio_codovilla_large.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_victorio_codovilla_small"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_victorio_codovilla_small.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_fanny_edelman_large"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_fanny_edelman_large.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_fanny_edelman_small"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_fanny_edelman_small.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_rodolfo_ghioldi_large"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_rodolfo_ghioldi_large.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_rodolfo_ghioldi_small"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_rodolfo_ghioldi_small.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_antonio_soto_large"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_antonio_soto_large.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_antonio_soto_small"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_antonio_soto_small.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_senor_hitler_large"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_senor_hitler_large.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_arturo_rawson_large"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_arturo_rawson_large.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_arturo_rawson_small"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_arturo_rawson_small.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_carlos_marquez_large"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_carlos_marquez_large.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_carlos_marquez_small"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_carlos_marquez_small.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_juan_pistarini_large"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_juan_pistarini_large.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_eduardo_avalos_large"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_eduardo_avalos_large.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_eduardo_avalos_small"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_eduardo_avalos_small.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_juan_tonazzi_large"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_juan_tonazzi_large.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_juan_tonazzi_small"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_juan_tonazzi_small.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_juan_peron_large"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_juan_peron_large.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_juan_peron_small"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_juan_peron_small.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_alberto_gilbert_large"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_alberto_gilbert_large.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_alberto_gilbert_small"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_alberto_gilbert_small.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_diego_mason_large"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_diego_mason_large.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_diego_mason_small"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_diego_mason_small.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_alberto_teisaire_large"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_alberto_teisaire_large.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_alberto_teisaire_small"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_alberto_teisaire_small.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_eleazar_videla_large"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_eleazar_videla_large.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_eleazar_videla_small"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_eleazar_videla_small.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_benito_sueyro_large"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_benito_sueyro_large.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_benito_sueyro_small"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_benito_sueyro_small.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_leon_scasso_large"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_leon_scasso_large.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_leon_scasso_small"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_leon_scasso_small.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_uribaldi_diaz_brittenberg_small"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_uribaldi_diaz_brittenberg_small.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_oscar_muratorio_small"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_oscar_muratorio_small.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_francisco_m_velez_small"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_francisco_m_velez_small.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_jose_tamborni_small"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_jose_tamborni_small.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_manuel_a_rodriguez_small"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_manuel_a_rodriguez_small.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_hortensio_quijano_small"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_hortensio_quijano_small.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_bartolome_de_la_colina_small"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_bartolome_de_la_colina_small.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_segundo_storni_small"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_segundo_storni_small.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_pedro_s_casal_small"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_pedro_s_casal_small.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_antonio_parodi_small"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_antonio_parodi_small.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_edmundo_sustaita_small"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_edmundo_sustaita_small.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_basilio_pertine_small"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_basilio_pertine_small.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_heriberto_la_galine_small"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_heriberto_la_galine_small.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_thomas_martinez_small"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_thomas_martinez_small.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_manuel_maria_de_iriondo_small"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_manuel_maria_de_iriondo_small.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_luis_podesta_costa_small"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_luis_podesta_costa_small.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_hugo_wast_small"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_hugo_wast_small.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_raul_prebisch_small"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_raul_prebisch_small.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_ezequiel_pedro_paz_small"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_ezequiel_pedro_paz_small.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_julio_roca_small"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_julio_roca_small.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_honorio_pueyrredon_small"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_honorio_pueyrredon_small.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_diogenes_taboada_small"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_diogenes_taboada_small.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_guillermo_rothe_small"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_guillermo_rothe_small.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_frederick_pinedo_small"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_frederick_pinedo_small.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_jose_cantilo_small"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_jose_cantilo_small.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_enrique_ruiz_guinazu_small"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_enrique_ruiz_guinazu_small.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_vincente_gallo_small"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_vincente_gallo_small.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_carlos_lamas_small"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_carlos_lamas_small.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_osmar_hellmuth_small"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_osmar_hellmuth_small.dds"
+	}
+	spriteType = {
+		name = "GFX_nti4_ARG_eva_peron_small"
+		texturefile = "gfx/leaders/NTI4ARG/ARG_eva_peron_small.dds"
+	}
+}
