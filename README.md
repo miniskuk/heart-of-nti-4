@@ -37,6 +37,7 @@ Det här repot innehåller två mods till Hearts of Iron IV som byter ledarnas p
 | Jugoslavien | YUG | jugoslavien.png |
 | Nederländerna | HOL | nederlanderna.png |
 | Belgien | BEL | belgien.png |
+| Albanien | ALB | albanien.png |
 | Polen | POL | polen.png (utom björnen Wojtek, han är sigma 🐻) |
 | Argentina | ARG | `bilder/argentina-katter/` – **alla** karaktärer (ledare, generaler, rådgivare, forskare) är katter och hundar |
 

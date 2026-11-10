@@ -67,4 +67,12 @@ spriteTypes = {
 		name = "GFX_POL_wincenty_witos"
 		texturefile = "gfx/leaders/NTI4/GFX_POL_wincenty_witos.dds"
 	}
+	spriteType = {
+		name = "GFX_portrait_Enver_Hoxha"
+		texturefile = "gfx/leaders/NTI4/GFX_portrait_Enver_Hoxha.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_Eqrem_Belishi"
+		texturefile = "gfx/leaders/NTI4/GFX_portrait_Eqrem_Belishi.dds"
+	}
 }
