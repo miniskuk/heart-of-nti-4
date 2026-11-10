@@ -2,7 +2,7 @@
 
 Det här repot innehåller två mods till Hearts of Iron IV som byter ledarnas porträtt mot bilder på kompisar och lärare.
 
-> ⚠️ Repot ska vara **privat**, eftersom det innehåller bilder på riktiga personer.
+> Alla personer på bilderna har sagt att det är okej att bilderna är publika.
 
 ## Innehåll
 
