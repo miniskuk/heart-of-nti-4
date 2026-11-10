@@ -32,6 +32,7 @@ Det här repot innehåller två mods till Hearts of Iron IV som byter ledarnas p
 | Storbritannien | ENG | Viktor.png |
 | Danmark | DEN | danmark.png |
 | Schweiz | SWI | schweiz.png |
+| Norge | NOR | norge.png |
 | Argentina | ARG | `bilder/argentina-katter/` – **alla** karaktärer (ledare, generaler, rådgivare, forskare) är katter och hundar |
 
 Bara de som kan bli **landets ledare** byts (utom Argentina, där alla är djur – se `verktyg/argentina_djur.py`; modden ersätter då `common/characters/ARG.txt`, så den filen kan behöva göras om efter stora speluppdateringar). Generaler, rådgivare och forskare byts inte. Gemensamma standardbilder (`Generic`) byts inte heller, eftersom andra länder också använder dem.
