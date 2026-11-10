@@ -47,4 +47,16 @@ spriteTypes = {
 		name = "GFX_portrait_SWI_ernest_beuin"
 		texturefile = "gfx/leaders/NTI4/GFX_portrait_SWI_ernest_beuin.dds"
 	}
+	spriteType = {
+		name = "GFX_portrait_BEL_gilles_wyvekens"
+		texturefile = "gfx/leaders/NTI4/GFX_portrait_BEL_gilles_wyvekens.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_BEL_joseph_jacquemotte"
+		texturefile = "gfx/leaders/NTI4/GFX_portrait_BEL_joseph_jacquemotte.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_BEL_leon_degrelle_small"
+		texturefile = "gfx/leaders/NTI4/GFX_portrait_BEL_leon_degrelle_small.dds"
+	}
 }
