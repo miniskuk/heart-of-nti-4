@@ -1,6 +1,6 @@
 # Heart of NTI 4
 
-Det här repot innehåller två mods till Hearts of Iron IV som byter ledarnas porträtt mot bilder på kompisar och lärare.
+Det här repot innehåller modden Heart of NTI 4 till Hearts of Iron IV som byter ledarnas porträtt mot bilder på kompisar och lärare.
 
 > Alla personer på bilderna har sagt att det är okej att bilderna är publika.
 
@@ -9,7 +9,6 @@ Det här repot innehåller två mods till Hearts of Iron IV som byter ledarnas p
 | Mapp | Vad det är |
 |---|---|
 | `mods/miku_japan/` | Modden **Heart of NTI 4**. Workshop-ID: `3836823642`. |
-| `mods/samuel/` | Modden **Samuel** (Tyskland/Hitler → Samuel). Workshop-ID: `3836091919`. |
 | `bilder/` | Originalbilderna som porträtten är gjorda av. |
 | `verktyg/leaders.py` | Hittar vilka porträttfiler ett lands ledare använder. |
 | `verktyg/byt_land.sh` | Byter alla ledarporträtt för ett land i ett steg. |
