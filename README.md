@@ -18,7 +18,6 @@ Det här repot innehåller två mods till Hearts of Iron IV som byter ledarnas p
 
 | Land | Tag | Vem | Bild |
 |---|---|---|---|
-| Tyskland | GER | Samuel (egen mod) | Samuel.png |
 | USA | USA | Donald Trump | Trump.jpg |
 | Japan | JAP | Hatsune Miku | Miku.jpg |
 | Italien | ITA | Nunzia Lampitelli (Naturkunskap & tekniker) | nunzia.jpg |
