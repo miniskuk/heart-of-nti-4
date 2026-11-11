@@ -19,7 +19,7 @@ Det här repot innehåller modden Heart of NTI 4 till Hearts of Iron IV som byte
 |---|---|---|---|
 | USA | USA | Donald Trump | Trump.jpg |
 | Japan | JAP | Hatsune Miku | Miku.jpg |
-| Italien | ITA | Nunzia Lampitelli (Naturkunskap & tekniker) | nunzia.jpg |
+| Italien | ITA | Nunzia Lampitelli (Naturkunskap & tekniker) – Mussolini heter "Nunzia Mussolini" i spelet | nunzia.jpg |
 | Finland | FIN | Casper | Casper.jpg |
 | Sverige | SWE | Liam | liam.png |
 | Korea | KOR | Emma | eamma.png |
