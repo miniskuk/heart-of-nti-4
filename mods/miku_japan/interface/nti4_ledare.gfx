@@ -135,4 +135,12 @@ spriteTypes = {
 		name = "GFX_portrait_Alfredo_Baldomir_Ferrari"
 		texturefile = "gfx/leaders/NTI4/GFX_portrait_Alfredo_Baldomir_Ferrari.dds"
 	}
+	spriteType = {
+		name = "GFX_portrait_BRA_armando_sales"
+		texturefile = "gfx/leaders/NTI4/GFX_portrait_BRA_armando_sales.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_BRA_lampiao_small"
+		texturefile = "gfx/leaders/NTI4/GFX_portrait_BRA_lampiao_small.dds"
+	}
 }
