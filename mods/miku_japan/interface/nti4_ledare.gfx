@@ -143,4 +143,16 @@ spriteTypes = {
 		name = "GFX_portrait_BRA_lampiao_small"
 		texturefile = "gfx/leaders/NTI4/GFX_portrait_BRA_lampiao_small.dds"
 	}
+	spriteType = {
+		name = "GFX_portrait_Oscar_Unzaga_de_la_Vega"
+		texturefile = "gfx/leaders/NTI4/GFX_portrait_Oscar_Unzaga_de_la_Vega.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_Jorge_Blanco"
+		texturefile = "gfx/leaders/NTI4/GFX_portrait_Jorge_Blanco.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_Severino_Ruiz-Tagle"
+		texturefile = "gfx/leaders/NTI4/GFX_portrait_Severino_Ruiz-Tagle.dds"
+	}
 }

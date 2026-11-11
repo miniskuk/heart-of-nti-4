@@ -47,6 +47,7 @@ Det här repot innehåller modden Heart of NTI 4 till Hearts of Iron IV som byte
 | Peru | PRU | Nunzia2 (den onda Nunzia) och Timmy2 – varannan ledare, se [backstoryn](#peru-backstory) | peru.png |
 | Uruguay | URG | Carterpcs | uruguay.png |
 | Brasilien | BRA | Generalen – se [backstoryn](#brasilien-backstory) | brasilien.png |
+| Bolivia | BOL | Claude 🤖 | bolivia.png |
 | Argentina | ARG | Katterna (och några hundar) – **alla** karaktärer (ledare, generaler, rådgivare, forskare) | `bilder/argentina-katter/` |
 
 Bara de som kan bli **landets ledare** byts (utom Argentina, där alla är djur – se `verktyg/argentina_djur.py`; modden ersätter då `common/characters/ARG.txt`, så den filen kan behöva göras om efter stora speluppdateringar). Generaler, rådgivare och forskare byts inte. Gemensamma standardbilder (`Generic`) byts inte heller, eftersom andra länder också använder dem.
