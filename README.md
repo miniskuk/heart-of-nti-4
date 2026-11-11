@@ -19,7 +19,7 @@ Det här repot innehåller modden Heart of NTI 4 till Hearts of Iron IV som byte
 |---|---|---|---|
 | USA | USA | Donald Trump | Trump.jpg |
 | Japan | JAP | Hatsune Miku | Miku.jpg |
-| Italien | ITA | Nunzia Lampitelli (Naturkunskap & tekniker) – Mussolini heter "Nunzia Mussolini" i spelet | nunzia.jpg |
+| Italien | ITA | Nunzia Lampitelli (Naturkunskap & tekniker) – Mussolini heter "Nunzia Mussolini" i spelet | italien.png |
 | Finland | FIN | Casper | Casper.jpg |
 | Sverige | SWE | Liam | liam.png |
 | Korea | KOR | Emma | eamma.png |
@@ -42,7 +42,7 @@ Det här repot innehåller modden Heart of NTI 4 till Hearts of Iron IV som byte
 | Polen | POL | Marcus Persson (Medieämnen) – utom björnen Wojtek, han är sigma 🐻 | polen.png |
 | Kurdistan | KUR | Agiri | kurdistan.png |
 | Indien (Brittiska Raj) | RAJ | Brave | indien.png |
-| Chile | CHL | – | chile.png |
+| Chile | CHL | Stefan Löfven | chile.png |
 | Argentina | ARG | Katterna (och några hundar) – **alla** karaktärer (ledare, generaler, rådgivare, forskare) | `bilder/argentina-katter/` |
 
 Bara de som kan bli **landets ledare** byts (utom Argentina, där alla är djur – se `verktyg/argentina_djur.py`; modden ersätter då `common/characters/ARG.txt`, så den filen kan behöva göras om efter stora speluppdateringar). Generaler, rådgivare och forskare byts inte. Gemensamma standardbilder (`Generic`) byts inte heller, eftersom andra länder också använder dem.
