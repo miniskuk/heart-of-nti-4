@@ -42,6 +42,7 @@ Det här repot innehåller modden Heart of NTI 4 till Hearts of Iron IV som byte
 | Polen | POL | Marcus Persson (Medieämnen) – utom björnen Wojtek, han är sigma 🐻 | polen.png |
 | Kurdistan | KUR | Agiri | kurdistan.png |
 | Indien (Brittiska Raj) | RAJ | Brave | indien.png |
+| Chile | CHL | – | chile.png |
 | Argentina | ARG | Katterna (och några hundar) – **alla** karaktärer (ledare, generaler, rådgivare, forskare) | `bilder/argentina-katter/` |
 
 Bara de som kan bli **landets ledare** byts (utom Argentina, där alla är djur – se `verktyg/argentina_djur.py`; modden ersätter då `common/characters/ARG.txt`, så den filen kan behöva göras om efter stora speluppdateringar). Generaler, rådgivare och forskare byts inte. Gemensamma standardbilder (`Generic`) byts inte heller, eftersom andra länder också använder dem.
