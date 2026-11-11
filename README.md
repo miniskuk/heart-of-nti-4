@@ -61,29 +61,6 @@ Tillsammans bildade de **Juntan av Två**: varannan gång Peru byter ledare tar 
 
 Deras enda svaghet? En mystisk QR-kod som sägs leda till landets största hemlighet. Ingen som har skannat den har någonsin blivit densamma igen. 🎵
 
-## Installera på en ny dator
-
-1. Kopiera `mods/miku_japan` till HoI4:s mod-mapp:
-   - **Windows:** `Dokument\Paradox Interactive\Hearts of Iron IV\mod\`
-   - **Linux (Proton):** `~/.local/share/Steam/steamapps/compatdata/394360/pfx/drive_c/users/steamuser/Documents/Paradox Interactive/Hearts of Iron IV/mod/`
-2. I samma `mod`-mapp, skapa filen `miku_japan.mod` med det här innehållet:
-   ```
-   version="1.0"
-   tags={
-   	"Graphics"
-   }
-   name="Heart of NTI 4"
-   picture="thumbnail.png"
-   supported_version="1.19.*"
-   path="mod/miku_japan"
-   remote_file_id="3836823642"
-   ```
-3. Starta launchern och aktivera **Heart of NTI 4** i din playset.
-
-Det går också att prenumerera på modden på Steam Workshop istället.
-
-Ha **inte** både Workshop-versionen och den lokala versionen av samma mod aktiva samtidigt. Då hoppar spelet över modden eller kraschar.
-
 ## Lägga till ett nytt land
 
 Porträtten är DDS-filer (DXT5, utan mipmaps) som ligger på samma sökväg som spelets egna filer, till exempel `gfx/leaders/SWE/...`. Stora porträtt är 156x210 och små ikoner är oftast 65x67.
