@@ -46,7 +46,7 @@ Det här repot innehåller modden Heart of NTI 4 till Hearts of Iron IV som byte
 | Venezuela | VEN | Markus Allard | venezuela.png |
 | Peru | PRU | Nunzia2 (den onda Nunzia) och Timmy2 – varannan ledare, se [backstoryn](#peru-backstory) | peru.png |
 | Uruguay | URG | Carterpcs | uruguay.png |
-| Brasilien | BRA | – | brasilien.png |
+| Brasilien | BRA | Generalen – se [backstoryn](#brasilien-backstory) | brasilien.png |
 | Argentina | ARG | Katterna (och några hundar) – **alla** karaktärer (ledare, generaler, rådgivare, forskare) | `bilder/argentina-katter/` |
 
 Bara de som kan bli **landets ledare** byts (utom Argentina, där alla är djur – se `verktyg/argentina_djur.py`; modden ersätter då `common/characters/ARG.txt`, så den filen kan behöva göras om efter stora speluppdateringar). Generaler, rådgivare och forskare byts inte. Gemensamma standardbilder (`Generic`) byts inte heller, eftersom andra länder också använder dem.
@@ -62,6 +62,18 @@ Strax efter klev **Timmy2** ut. Han hade lämnat Sovjet bakom sig, odlat ett sk�
 Tillsammans bildade de **Juntan av Två**: varannan gång Peru byter ledare tar den ena över efter den andra. Ingen i spelet vet vem som egentligen styr – och det är precis så de vill ha det.
 
 Deras enda svaghet? En mystisk QR-kod som sägs leda till landets största hemlighet. Ingen som har skannat den har någonsin blivit densamma igen. 🎵
+
+## Brasilien-backstory
+
+Ingen vet var **Generalen** kom ifrån. En morgon 1936 stod han bara där, på trappan till presidentpalatset i Rio, i en uniform med så mycket guldfransar att duvorna trodde att han var en ljuskrona.
+
+– *Jag är här för att ta över*, sa han och log det där leendet som får det att verka som att han vet något du inte vet.
+
+Getúlio Vargas skrattade först. Sedan såg han att Generalen redan hade hängt upp sitt eget porträtt på väggen, bredvid Vargas eget, fast lite större.
+
+Från och med då är det Generalen som bestämmer. Varje morgon granskar han trupperna, varje eftermiddag snurrar han på sin jordglob och pekar slumpmässigt på länder han ”ska besöka snart”, och varje kväll förklarar han för hela regeringen att FEB-ormen på väggen är hans personliga husdjur.
+
+Ingen vågar säga emot. Det sägs att det enda som kan få honom att lämna makten är en riktigt bra caipirinha, men ingen har lyckats göra en som är tillräckligt bra än. 🇧🇷
 
 ## Uppdatera på Workshop
 
