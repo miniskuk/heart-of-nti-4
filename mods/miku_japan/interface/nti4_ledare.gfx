@@ -119,4 +119,20 @@ spriteTypes = {
 		name = "GFX_portrait_Manuel_Prado_Ugarteche"
 		texturefile = "gfx/leaders/NTI4/GFX_portrait_Manuel_Prado_Ugarteche.dds"
 	}
+	spriteType = {
+		name = "GFX_portrait_Venancio_Flores"
+		texturefile = "gfx/leaders/NTI4/GFX_portrait_Venancio_Flores.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_Bernardo_Gonzalez"
+		texturefile = "gfx/leaders/NTI4/GFX_portrait_Bernardo_Gonzalez.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_Juan_Manuel_Aguirre"
+		texturefile = "gfx/leaders/NTI4/GFX_portrait_Juan_Manuel_Aguirre.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_Alfredo_Baldomir_Ferrari"
+		texturefile = "gfx/leaders/NTI4/GFX_portrait_Alfredo_Baldomir_Ferrari.dds"
+	}
 }
