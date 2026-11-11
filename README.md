@@ -61,22 +61,6 @@ Tillsammans bildade de **Juntan av Två**: varannan gång Peru byter ledare tar 
 
 Deras enda svaghet? En mystisk QR-kod som sägs leda till landets största hemlighet. Ingen som har skannat den har någonsin blivit densamma igen. 🎵
 
-## Lägga till ett nytt land
-
-Porträtten är DDS-filer (DXT5, utan mipmaps) som ligger på samma sökväg som spelets egna filer, till exempel `gfx/leaders/SWE/...`. Stora porträtt är 156x210 och små ikoner är oftast 65x67.
-
-På Linux med ImageMagick 7 och Python 3:
-
-```bash
-./verktyg/byt_land.sh SWI bilder/schweiz.png 760x1023+230+30 440x453+400+110 switzerland swiss
-```
-
-- **Första crop:** utsnittet för stora porträtt, alltså ansikte och bröst.
-- **Andra crop:** utsnittet för små ikoner, alltså bara ansiktet.
-- **Sista orden:** extra sökord för landets händelsefiler.
-
-Kopiera sedan den uppdaterade `mods/miku_japan` till spelets mod-mapp.
-
 ## Uppdatera på Workshop
 
 Öppna launchern och välj **Mod Tools** → **Upload Mod**. Fyll i Mod ID `3836823642` så uppdateras den befintliga modden istället för att en ny skapas.
