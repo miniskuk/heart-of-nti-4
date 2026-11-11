@@ -44,10 +44,22 @@ Det här repot innehåller modden Heart of NTI 4 till Hearts of Iron IV som byte
 | Indien (Brittiska Raj) | RAJ | Brave | indien.png |
 | Chile | CHL | Stefan Löfven | chile.png |
 | Venezuela | VEN | Markus Allard | venezuela.png |
-| Peru | PRU | – (två personer, varannan ledare) | peru.png |
+| Peru | PRU | Nunzia2 (den onda Nunzia) och Timmy2 – varannan ledare, se [backstoryn](#peru-backstory) | peru.png |
 | Argentina | ARG | Katterna (och några hundar) – **alla** karaktärer (ledare, generaler, rådgivare, forskare) | `bilder/argentina-katter/` |
 
 Bara de som kan bli **landets ledare** byts (utom Argentina, där alla är djur – se `verktyg/argentina_djur.py`; modden ersätter då `common/characters/ARG.txt`, så den filen kan behöva göras om efter stora speluppdateringar). Generaler, rådgivare och forskare byts inte. Gemensamma standardbilder (`Generic`) byts inte heller, eftersom andra länder också använder dem.
+
+## Peru-backstory
+
+Långt uppe i Anderna, på ett hemligt NTI-gymnasium byggt av gamla Inka-stenar, fanns en spegel. Den som tittade i den kom ut på andra sidan – fast lite… *ondare*.
+
+**Nunzia2** var den första. Medan den vanliga Nunzia rättar labbrapporter i Italien, kom Nunzia2 ut ur spegeln med solglasögon, en sash i Perus färger och en enda plan: att ta över Lima med fredstecken och ett leende som får generaler att svettas. Hennes motto: *”Naturkunskap är makt.”*
+
+Strax efter klev **Timmy2** ut. Han hade lämnat Sovjet bakom sig, odlat ett skägg på rekordtid och lärt sig korsa armarna så hårt att hela Andernas armé kände sig granskad. Ingen har någonsin sett hans ögon bakom glasögonen. Ingen vågar fråga.
+
+Tillsammans bildade de **Juntan av Två**: varannan gång Peru byter ledare tar den ena över efter den andra. Ingen i spelet vet vem som egentligen styr – och det är precis så de vill ha det.
+
+Deras enda svaghet? En mystisk QR-kod som sägs leda till landets största hemlighet. Ingen som har skannat den har någonsin blivit densamma igen. 🎵
 
 ## Installera på en ny dator
 
