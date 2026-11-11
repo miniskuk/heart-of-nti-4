@@ -91,4 +91,16 @@ spriteTypes = {
 		name = "GFX_RAJ_veer_savarkar"
 		texturefile = "gfx/leaders/NTI4/GFX_RAJ_veer_savarkar.dds"
 	}
+	spriteType = {
+		name = "GFX_portrait_Juan_Bautista_Fuenmayor"
+		texturefile = "gfx/leaders/NTI4/GFX_portrait_Juan_Bautista_Fuenmayor.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_Luis_Figueroa"
+		texturefile = "gfx/leaders/NTI4/GFX_portrait_Luis_Figueroa.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_Patricio_Franco"
+		texturefile = "gfx/leaders/NTI4/GFX_portrait_Patricio_Franco.dds"
+	}
 }
