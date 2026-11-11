@@ -79,4 +79,16 @@ spriteTypes = {
 		name = "GFX_portrait_Sheikh_Mahmud_Barzanji"
 		texturefile = "gfx/leaders/NTI4/GFX_portrait_Sheikh_Mahmud_Barzanji.dds"
 	}
+	spriteType = {
+		name = "GFX_RAJ_krishna_pillai"
+		texturefile = "gfx/leaders/NTI4/GFX_RAJ_krishna_pillai.dds"
+	}
+	spriteType = {
+		name = "GFX_RAJ_subhas_chandra_bose"
+		texturefile = "gfx/leaders/NTI4/GFX_RAJ_subhas_chandra_bose.dds"
+	}
+	spriteType = {
+		name = "GFX_RAJ_veer_savarkar"
+		texturefile = "gfx/leaders/NTI4/GFX_RAJ_veer_savarkar.dds"
+	}
 }
